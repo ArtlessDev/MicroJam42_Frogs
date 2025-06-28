@@ -5,6 +5,8 @@ VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UntitledFrogGame", "UntitledFrogGame.csproj", "{CA1AAA31-C041-447C-A5D6-FFBCC486F6B6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "GameSpecificFiles", "GameSpecificFiles", "{3E7BABBE-C2E8-4E57-9A27-D796517BF2B5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
